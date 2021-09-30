@@ -46,7 +46,7 @@ body{
 main{
     background-color:#121112;
     width: 100%;
-    position: sticky;
+    position: fixed;
     z-index: 3;
     top: 0;
 }
